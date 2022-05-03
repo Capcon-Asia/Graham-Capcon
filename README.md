@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/104832265/166451929-370a7720-e67e-4f8d-8491-26223c84465a.png)
+
 ### 🔸 Capcon Asia
 
 Capcon provides end to end recruitment services for Start-Ups or Scale-Ups setting up their engineering teams in MY, and helps established organisations identify the right talents to accelerate their potential.
@@ -28,5 +30,3 @@ Capcon provides end to end recruitment services for Start-Ups or Scale-Ups setti
 - Whatsapp [https://wa.me/message/GI56BPI65NK7D1](url)
 - [https://www.linkedin.com/in/graham-a-capcon/](url)
 - graham.a@capcon.asia
-
-![image](https://user-images.githubusercontent.com/104832265/166451929-370a7720-e67e-4f8d-8491-26223c84465a.png)

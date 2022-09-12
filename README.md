@@ -28,5 +28,4 @@ Capcon provides end to end recruitment services for Start-Ups or Scale-Ups setti
 
 - [https://capcon.asia/](url)
 - Whatsapp [https://wa.me/message/GI56BPI65NK7D1](url)
-- [https://www.linkedin.com/in/graham-a-capcon/](url)
-- graham.a@capcon.asia
+- [https://www.linkedin.com/company/capcon-asia](url)
